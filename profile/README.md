@@ -1,12 +1,12 @@
-## Play Our Stupid Ass, Games 👾
+## Games Made With a Task And Purpose, a TAP 👾
 <!--
 
 
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-## PLAY
+## Play Our Stupid Ass, Games 🎮
 https://tap-arcade.itch.io/
 
-## WATCH
+## Watch Our Educational Content, Videos 🖥️
 https://www.youtube.com/@TAP_ARCADE
